@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a website for Sahara, featuring information about various regions and landmarks.
+This is a hero-section of a traveling company's website called Sahara, featuring information about various regions and landmarks.
 
 ## Project Structure
 
@@ -27,4 +27,4 @@ This is a website for Sahara, featuring information about various regions and la
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sahara-website.git
+   git clone https://github.com/tusharpatowary/shahara-hero.git
